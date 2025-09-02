@@ -1,0 +1,8 @@
+.venv/
+pycache/
+.pyc
+.ipynb_checkpoints/
+.results_tmp/
+results/logs/
+results/plots/*
+examples/data/*.tmp
