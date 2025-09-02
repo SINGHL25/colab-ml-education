@@ -24,3 +24,18 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 pytest -q
 python main.py
+```Plain text
+colab-ml-education/
+│── notebooks/
+│    ├── 01_setup.ipynb
+│    ├── 02_tensorflow.ipynb
+│    └── 03_pytorch.ipynb
+│
+│── data/
+│    └── sample.csv
+│
+│── tests/
+│    └── test_sample.py
+│
+│── requirements.txt
+│── README.md
