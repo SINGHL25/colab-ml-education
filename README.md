@@ -1,6 +1,7 @@
 # colab-ml-education
 # Colab Learning Playground
 <img width="427" height="438" alt="Screenshot 2025-09-02 231205" src="https://github.com/user-attachments/assets/59cd6838-7527-41f5-8940-3dd73b185433" />
+<img width="2048" height="2048" alt="Gemini_Generated_Image_1sg7vn1sg7vn1sg7 (2)" src="https://github.com/user-attachments/assets/267a903d-650f-4010-bc7d-a0bd8484cb38" />
 
 
 
